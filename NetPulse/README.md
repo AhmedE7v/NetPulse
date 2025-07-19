@@ -94,7 +94,7 @@ python netpulse.py --run
 ```bash
 # Open terminal
 sudo apt update && sudo apt install git python3 python3-pip -y
-git clone https://github.com/YourUser/NetPulse.git
+git clone https://github.com/AhmedE7v/NetPulse.git
 cd NetPulse
 pip3 install -r requirements.txt
 python3 netpulse.py --run
@@ -110,7 +110,7 @@ python3 netpulse.py --run
 **Steps:**
 ```bash
 brew install git python
-git clone https://github.com/YourUser/NetPulse.git
+git clone https://github.com/AhmedE7v/NetPulse.git
 cd NetPulse
 pip3 install -r requirements.txt
 python3 netpulse.py --run
@@ -126,7 +126,7 @@ python3 netpulse.py --run
 **Steps:**
 ```bash
 pkg update && pkg install git python -y
-git clone https://github.com/YourUser/NetPulse.git
+git clone https://github.com/AhmedE7v/NetPulse.git
 cd NetPulse
 pip install -r requirements.txt
 python netpulse.py --run
@@ -138,8 +138,7 @@ python netpulse.py --run
 - 💬 Telegram Channel: [t.me/+2HFwIAdIeukyMzJk](https://t.me/+2HFwIAdIeukyMzJk)  
 - 💬 Telegram (Dev): [t.me/EG_SILENT_MAN](https://t.me/EG_SILENT_MAN)  
 - 🌐 GitHub: [github.com/E7v](https://github.com/AhmedE7v)  
-- 📘 Facebook: [facebook.com/E7vZone](https://www.facebook.com/profile.php?id=61560425026040)  
-- 📷 Instagram: [instagram.com/E7v.official](https://instagram.com/E7v.official)  
+- 📘 Facebook: [facebook.com/E7vZone](https://www.facebook.com/profile.php?id=61560425026040) 
 
 ---
 
@@ -153,7 +152,7 @@ python netpulse.py --run
 
 ## 📬 Contact | للتواصل:
 
-**Email:** `e7v.contact@example.com`  
+**Telegram:** `t.me/EG_SILENT_MAN`  
 For bugs, suggestions, or collaborations.  
 للتبليغ عن أخطاء، أو تقديم اقتراحات، أو للتعاون.
 
