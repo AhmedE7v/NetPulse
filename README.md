@@ -1,3 +1,4 @@
+![NetPulse Banner](https://github.com/AhmedE7v/NetPulse/blob/master/NetPulse/assets/png/Screenshot%202025-07-16%20162112.png)
 
 # 🧠 NetPulse - Internet Speed Diagnostic Tool | أداة تشخيص سرعة الإنترنت
 
