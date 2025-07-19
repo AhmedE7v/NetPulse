@@ -1,0 +1,4 @@
+colorama
+speedtest-cli
+requests
+pyperclip==1.8.2

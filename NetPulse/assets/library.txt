@@ -1,0 +1,7 @@
+# Essential libraries
+colorama
+speedtest-cli
+
+# Optional
+requests
+pyperclip==1.8.2
