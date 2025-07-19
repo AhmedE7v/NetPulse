@@ -1,3 +1,5 @@
+![NetPulse Banner](NetPulse/assets/png/Screenshot 2025-07-16 162112.png)
+
 
 # 🧠 NetPulse - Internet Speed Diagnostic Tool | أداة تشخيص سرعة الإنترنت
 
